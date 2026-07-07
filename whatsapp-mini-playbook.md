@@ -78,5 +78,5 @@ cd public_playbooks/whatsapp-mini-playbook
 
 ---
 
-*Плейбук мастермайнда «Вайбкодинг для предпринимателей». Автор — Андрей Овчаренко.
+*Плейбук мастермайнда «Вайбкодинг для предпринимателей». Автор — [t.me/andreydraft](https://t.me/andreydraft).
 Репозиторий: https://github.com/rocketmandrey/public_playbooks (папка `whatsapp-mini-playbook/`)*
